@@ -44,7 +44,7 @@ while tl > 0:
         ctr+=1
     pointer+=1
     tl-=1
-
+os.system(f"git remote remove origin")  # remove existing first
 os.system(f"git remote add origin {repo_link}")
 os.system("git branch -M main")
 os.system("git push -u origin main -f")
