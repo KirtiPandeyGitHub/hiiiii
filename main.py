@@ -3,11 +3,11 @@ from datetime import date, time, datetime
 import datetime
 from random import randint as ri
 
-total_day = 360 # how far back to start commits
-commit_freq = 5 # num of commits per day
+total_day = 750 # how far back to start commits
+commit_freq = 50 # num of commits per day
 
 # set to True if you want the number of commits per day to be random for a more realistic graph
-variablity = False
+variablity = True
 
 # change to your repo
 # repo_link = "git@github.com:aliifam/github-activity-generator.git" # ssh
