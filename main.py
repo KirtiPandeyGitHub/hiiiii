@@ -11,7 +11,7 @@ variablity = False
 
 # change to your repo
 # repo_link = "git@github.com:aliifam/github-activity-generator.git" # ssh
-repo_link = "https://github.com/KirtiPandeyGitHub/Hi-There.git" # http
+repo_link = "https://github.com/KirtiPandeyGitHub/hiiiii.git" # http
 
 tl = total_day #time day
 ctr = 1
